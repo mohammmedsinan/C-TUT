@@ -1,0 +1,15 @@
+C:\Users\High Tech\Desktop\CTUT\bin\Debug\net6.0\C-TUT.exe
+C:\Users\High Tech\Desktop\CTUT\bin\Debug\net6.0\C-TUT.deps.json
+C:\Users\High Tech\Desktop\CTUT\bin\Debug\net6.0\C-TUT.runtimeconfig.json
+C:\Users\High Tech\Desktop\CTUT\bin\Debug\net6.0\C-TUT.dll
+C:\Users\High Tech\Desktop\CTUT\bin\Debug\net6.0\C-TUT.pdb
+C:\Users\High Tech\Desktop\CTUT\obj\Debug\net6.0\C-TUT.csproj.AssemblyReference.cache
+C:\Users\High Tech\Desktop\CTUT\obj\Debug\net6.0\C-TUT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\High Tech\Desktop\CTUT\obj\Debug\net6.0\C-TUT.AssemblyInfoInputs.cache
+C:\Users\High Tech\Desktop\CTUT\obj\Debug\net6.0\C-TUT.AssemblyInfo.cs
+C:\Users\High Tech\Desktop\CTUT\obj\Debug\net6.0\C-TUT.csproj.CoreCompileInputs.cache
+C:\Users\High Tech\Desktop\CTUT\obj\Debug\net6.0\C-TUT.dll
+C:\Users\High Tech\Desktop\CTUT\obj\Debug\net6.0\refint\C-TUT.dll
+C:\Users\High Tech\Desktop\CTUT\obj\Debug\net6.0\C-TUT.pdb
+C:\Users\High Tech\Desktop\CTUT\obj\Debug\net6.0\C-TUT.genruntimeconfig.cache
+C:\Users\High Tech\Desktop\CTUT\obj\Debug\net6.0\ref\C-TUT.dll
